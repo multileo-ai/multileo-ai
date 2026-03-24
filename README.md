@@ -1,133 +1,128 @@
-# <p align="center">Hey there! I'm Ashutosh Kumar 👋</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;B.Tech+CSE+Student;Building+Future-Ready+Apps;Research+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello!;नमस्ते!;こんにちは!" alt="Multi-language Greeting" />
 </p>
 
 <p align="center">
-  <a href="#-about-me">About</a> • 
-  <a href="#-tech-stack">Skills</a> • 
-  <a href="#-featured-projects">Projects</a> • 
-  <a href="#-stats">Activity</a> • 
-  <a href="#-connect">Connect</a>
+  <b>Ashutosh Kumar</b><br>
+  Full Stack Developer | B.Tech Computer Science | Research Author
+</p>
+
+<p align="center">
+  <a href="#the-vision">Vision</a> • 
+  <a href="#technical-arsenal">Stack</a> • 
+  <a href="#featured-work">Work</a> • 
+  <a href="#metrics">Metrics</a> • 
+  <a href="#connection">Connection</a>
 </p>
 
 ---
 
-<a name="-about-me"></a>
-### 🚀 About Me
+<a name="the-vision"></a>
+### The Vision
 
-I am a **Computer Science & Engineering** student dedicated to building high-performance web applications and empathetic AI solutions. I thrive on transforming complex challenges into clean, functional code. My work focuses on creating technology that makes a tangible impact, from public safety to digital wellness and sports management.
+I focus on the intersection of human empathy and scalable technology. Currently a 4th-semester Computer Science student, I spend my time architecting systems that solve specific, real-world friction points. From enhancing urban safety through data to digitizing sports management, my goal is to write code that serves a purpose beyond the screen.
 
-- 🛡️ **Safety Tech:** Protecting urban environments via `savraksh`.
-- 🏸 **Sport Management:** Scaling the `swba` ecosystem.
-- 🌿 **Digital Nature:** Innovating herbal education with `Zenvy`.
-- ✍️ **Published:** Research author on MERN-based empathetic AI frameworks.
+I believe in clean architecture, intuitive UI/UX, and the power of a well-optimized backend.
 
 ---
 
-<a name="-tech-stack"></a>
-### 🛠️ Tech Stack
+<a name="technical-arsenal"></a>
+### Technical Arsenal
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="left" width="50%" style="border: none;">
+      <b>Languages & Core</b><br/>
+      Java | Python | JavaScript | C++ | Data Structures & Algorithms
+    </td>
+    <td align="left" width="50%" style="border: none;">
+      <b>Web & Design</b><br/>
+      React.js | Node.js | Tailwind CSS | HTML5 | CSS3 | UI/UX Design (Figma)
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%" style="border: none;">
+      <b>Cloud & Database</b><br/>
+      MongoDB | Firebase | Express.js | SQL
+    </td>
+    <td align="left" width="50%" style="border: none;">
+      <b>Integration & Tools</b><br/>
+      Razorpay Payments | Git | GitHub Actions | REST APIs
+    </td>
+  </tr>
+</table>
 
 ---
 
-<a name="-featured-projects"></a>
-### 🌟 Featured Projects (Click to Expand)
+<a name="featured-work"></a>
+### Featured Work
 
 <details>
-  <summary><b>🛡️ savraksh | Urban Safety & Smart Mapping</b></summary>
+  <summary><b>savraksh | Public Safety Intelligence</b></summary>
   <br/>
-  <blockquote>
-    A high-impact safety application utilizing map integration for secure navigation. It features real-time heatmaps and intelligent routing to protect users in urban environments.
-    <br/><br/>
-    <b>Tech:</b> MERN Stack, Leaflet.js, OpenStreetMap API
-    <br/>
-    </blockquote>
+  Architecture for urban safety. This platform integrates real-time heatmaps and intelligent routing logic to provide secure navigation paths for users in high-risk areas.
+  <br/><br/>
+  <b>Core:</b> MERN Stack, Leaflet, Geolocation APIs
 </details>
 
 <details>
-  <summary><b>🏸 swba | ShuttleWar Badminton Academy Ecosystem</b></summary>
+  <summary><b>swba | ShuttleWar Academy Management</b></summary>
   <br/>
-  <blockquote>
-    A comprehensive management suite designed for sports facility efficiency. It streamlines player logistics, coach management, and tournament operations.
-    <br/><br/>
-    <b>Tech:</b> React, Node.js, Express, MongoDB
-    <br/>
-    </blockquote>
+  A professional-grade management ecosystem for sports academies. It automates player logistics, coach scheduling, and financial tracking via Razorpay integration.
+  <br/><br/>
+  <b>Core:</b> React, Firebase, Razorpay
 </details>
 
 <details>
-  <summary><b>🌿 Zenvy | Immersive Virtual Herbal Garden</b></summary>
+  <summary><b>Zenvy | Immersive Herbal Ecosystem</b></summary>
   <br/>
-  <blockquote>
-    A multi-featured digital herbal environment focusing on interactive education and 3D visualization.
-    <br/><br/>
-    <b>Key Features:</b>
-    <ul>
-      <li><b>3D Modeling:</b> High-fidelity plant representations for visual learning.</li>
-      <li><b>Botanical Database:</b> Interactive library of herbal species and properties.</li>
-      <li><b>Gamification:</b> Systems that track and reward plant development milestones.</li>
-      <li><b>Climate Simulation:</b> Logic that reflects real-world growth conditions.</li>
-      <li><b>AI Identification:</b> Smart recognition tools to identify species instantly.</li>
-    </ul>
-    </blockquote>
+  A multi-layered digital project designed for the Zenvy challenge, focusing on the future of botanical education through five key pillars:
+  <ul>
+    <li>3D Plant Modeling for visual immersion.</li>
+    <li>Interactive Database for herbal research.</li>
+    <li>Gamified progression for user engagement.</li>
+    <li>Climate simulation reflecting real-world growth.</li>
+    <li>AI-driven identification for instant species data.</li>
+  </ul>
 </details>
 
 <details>
-  <summary><b>🛍️ vanokhi & 📊 Yugen Dashboard</b></summary>
+  <summary><b>vanokhi | Minimalist Commerce</b></summary>
   <br/>
-  <blockquote>
-    <b>vanokhi:</b> A modern e-commerce solution with a focus on seamless UI/UX and state management.
-    <br/>
-    <b>Yugen:</b> A sophisticated interface for data visualization and administrative monitoring using Chart.js.
-  </blockquote>
+  A high-performance e-commerce solution focused on a "less is more" UI/UX approach and efficient state management.
 </details>
 
 <details>
-  <summary><b>🎮 Interactive Gaming Labs</b></summary>
+  <summary><b>Interactive Labs | MatchTheTile & ShootingArea</b></summary>
   <br/>
-  <blockquote>
-    <b>MatchTheTile:</b> A high-performance browser puzzle game focusing on logic and speed.
-    <br/>
-    <b>ShootingArea:</b> An action-based interactive web experience built with HTML5 Canvas.
-  </blockquote>
+  Exploring browser performance and interactive logic through puzzle and action-based gaming experiences built on HTML5 Canvas.
 </details>
 
 ---
 
-<a name="-stats"></a>
-### 📈 Activity & Impact
+<a name="metrics"></a>
+### Metrics & Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=multileo-ai&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=multileo-ai&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=multileo-ai&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=multileo-ai&theme=tokyonight&hide_border=true&sideLabelColor=36BCF7" />
 </p>
 
-### 🐍 Contribution Journey
+**Contribution Flow**
 <p align="center">
-  <img src="https://github.com/multileo-ai/multileo-ai/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/multileo-ai/multileo-ai/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-<a name="-connect"></a>
-### 🤝 Let's Connect
+<a name="connection"></a>
+### Connection
 
-<p align="left">
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+If you are interested in discussing research on Empathetic AI, full-stack architecture, or potential collaborations, feel free to reach out.
+
+[Email](mailto:YOUR_EMAIL@gmail.com) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://your-portfolio.com)
 
 <p align="center">
-  <i>"Writing code that makes an impact, one repository at a time."</i>
+  <i>"Building for the human element."</i>
 </p>
