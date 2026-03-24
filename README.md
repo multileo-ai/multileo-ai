@@ -1,22 +1,32 @@
-# Hey there! I'm Ashutosh Kumar 👋
+# <p align="center">Hey there! I'm Ashutosh Kumar 👋</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;B.Tech+CSE+Student;Building+Future-Ready+Apps;Research+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="#-about-me">About</a> • 
+  <a href="#-tech-stack">Skills</a> • 
+  <a href="#-featured-projects">Projects</a> • 
+  <a href="#-stats">Activity</a> • 
+  <a href="#-connect">Connect</a>
+</p>
+
 ---
 
+<a name="-about-me"></a>
 ### 🚀 About Me
 
 I am a **Computer Science & Engineering** student dedicated to building high-performance web applications and empathetic AI solutions. I thrive on transforming complex challenges into clean, functional code. My work focuses on creating technology that makes a tangible impact, from public safety to digital wellness and sports management.
 
-- 🛡️ **savraksh:** Engineering a robust safety platform using real-time heatmaps and intelligent routing to protect users in urban environments.
-- 🏸 **swba:** Developing an end-to-end management ecosystem that streamlines player logistics and tournament operations for sports academies.
-- 🌿 **Zenvy:** Crafting an immersive herbal ecosystem featuring 3D plant modeling, interactive botanical databases, gamified growth tracking, real-time climate simulation, and AI-driven identification.
-- ✍️ **Research:** Contributing to the future of student wellness through published work on MERN-based empathetic AI frameworks.
+- 🛡️ **Safety Tech:** Protecting urban environments via `savraksh`.
+- 🏸 **Sport Management:** Scaling the `swba` ecosystem.
+- 🌿 **Digital Nature:** Innovating herbal education with `Zenvy`.
+- ✍️ **Published:** Research author on MERN-based empathetic AI frameworks.
 
 ---
 
+<a name="-tech-stack"></a>
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -30,39 +40,87 @@ I am a **Computer Science & Engineering** student dedicated to building high-per
 
 ---
 
-### 🌟 Featured Repositories
+<a name="-featured-projects"></a>
+### 🌟 Featured Projects (Click to Expand)
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🛡️ savraksh** | A high-impact safety application utilizing map integration for secure navigation. | MERN, Leaflet |
-| **🏸 swba** | A comprehensive management suite designed for sports facility efficiency and scaling. | React, Node.js |
-| **🌿 Zenvy** | A multi-featured virtual garden focusing on interactive education and 3D visualization. | 3D Web, React |
-| **🛍️ vanokhi** | A modern e-commerce solution with a focus on seamless UI/UX and state management. | React, Tailwind |
-| **📊 Yugen Dashboard** | A sophisticated interface for data visualization and administrative monitoring. | JS, Chart.js |
-| **🎮 Gaming** | **MatchTheTile** & **ShootingArea** — interactive web-based gaming experiences. | Canvas, JS |
+<details>
+  <summary><b>🛡️ savraksh | Urban Safety & Smart Mapping</b></summary>
+  <br/>
+  <blockquote>
+    A high-impact safety application utilizing map integration for secure navigation. It features real-time heatmaps and intelligent routing to protect users in urban environments.
+    <br/><br/>
+    <b>Tech:</b> MERN Stack, Leaflet.js, OpenStreetMap API
+    <br/>
+    </blockquote>
+</details>
+
+<details>
+  <summary><b>🏸 swba | ShuttleWar Badminton Academy Ecosystem</b></summary>
+  <br/>
+  <blockquote>
+    A comprehensive management suite designed for sports facility efficiency. It streamlines player logistics, coach management, and tournament operations.
+    <br/><br/>
+    <b>Tech:</b> React, Node.js, Express, MongoDB
+    <br/>
+    </blockquote>
+</details>
+
+<details>
+  <summary><b>🌿 Zenvy | Immersive Virtual Herbal Garden</b></summary>
+  <br/>
+  <blockquote>
+    A multi-featured digital herbal environment focusing on interactive education and 3D visualization.
+    <br/><br/>
+    <b>Key Features:</b>
+    <ul>
+      <li><b>3D Modeling:</b> High-fidelity plant representations for visual learning.</li>
+      <li><b>Botanical Database:</b> Interactive library of herbal species and properties.</li>
+      <li><b>Gamification:</b> Systems that track and reward plant development milestones.</li>
+      <li><b>Climate Simulation:</b> Logic that reflects real-world growth conditions.</li>
+      <li><b>AI Identification:</b> Smart recognition tools to identify species instantly.</li>
+    </ul>
+    </blockquote>
+</details>
+
+<details>
+  <summary><b>🛍️ vanokhi & 📊 Yugen Dashboard</b></summary>
+  <br/>
+  <blockquote>
+    <b>vanokhi:</b> A modern e-commerce solution with a focus on seamless UI/UX and state management.
+    <br/>
+    <b>Yugen:</b> A sophisticated interface for data visualization and administrative monitoring using Chart.js.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🎮 Interactive Gaming Labs</b></summary>
+  <br/>
+  <blockquote>
+    <b>MatchTheTile:</b> A high-performance browser puzzle game focusing on logic and speed.
+    <br/>
+    <b>ShootingArea:</b> An action-based interactive web experience built with HTML5 Canvas.
+  </blockquote>
+</details>
 
 ---
 
+<a name="-stats"></a>
 ### 📈 Activity & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=multileo-ai&show_icons=true&theme=tokyonight&count_private=true" alt="Ashutosh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=multileo-ai&show_icons=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=multileo-ai&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=multileo-ai&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
 
 ### 🐍 Contribution Journey
-
 <p align="center">
   <img src="https://github.com/multileo-ai/multileo-ai/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
+<a name="-connect"></a>
 ### 🤝 Let's Connect
 
 <p align="left">
