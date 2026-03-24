@@ -7,50 +7,52 @@
 </p>
 
 <p align="center">
-  <a href="#perspective">Perspective</a> • 
-  <a href="#technical-core">Technical Core</a> • 
+  <a href="#vision">Vision</a> • 
+  <a href="#technical-arsenal">Technical Arsenal</a> • 
   <a href="#featured-development">Featured Development</a> • 
-  <a href="#activity">Activity</a> • 
-  <a href="#direct-access">Direct Access</a>
+  <a href="#metrics">Metrics</a> • 
+  <a href="#connection">Connection</a>
 </p>
 
 ---
 
-<a name="perspective"></a>
-### The Perspective
+<a name="vision"></a>
+### Vision
 
-I focus on building software that bridges the gap between complex backend logic and meaningful human interaction. Currently in my 4th semester of Computer Science, my work is driven by the belief that technology should solve specific friction points in daily life. Whether it is architecting public safety tools or digitizing sports management ecosystems, I aim for high-performance solutions that remain intuitive at their core.
-
-Beyond the code, I am a published researcher exploring the future of Empathetic AI and its role in student-centric environments.
+I build software at the intersection of human empathy and scalable architecture. Currently in my 4th semester of Computer Science, I focus on engineering systems that eliminate friction in high-stakes environments—whether it is public safety, inter-college sports logistics, or digital wellness. My work is driven by the philosophy that clean code should serve a tangible human purpose.
 
 ---
 
-<a name="technical-core"></a>
-### Technical Core
+<a name="technical-arsenal"></a>
+### Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,react,html,css,tailwind,nodejs,express,mongodb,firebase,figma,git,github,postman" />
+</p>
 
 <table align="center" style="border: none; width: 100%;">
   <tr>
     <td align="left" width="50%" style="border: none; vertical-align: top;">
-      <b>Engineering & Logic</b><br/>
-      Java | Python | C++ | JavaScript <br/> 
-      Data Structures & Algorithms | RESTful APIs
+      <b>Core Engineering</b><br/>
+      Data Structures & Algorithms | RESTful APIs <br/>
+      System Design | Python Scripting
     </td>
     <td align="left" width="50%" style="border: none; vertical-align: top;">
-      <b>Frontend & Experience</b><br/>
-      React.js | Tailwind CSS | HTML5 | CSS3 <br/>
-      UI/UX Design | Figma Prototyping
+      <b>Fintech & Integration</b><br/>
+      Razorpay Payment Gateway | Firebase Auth <br/>
+      Cloud Integration | Agile Workflow
     </td>
   </tr>
   <tr>
     <td align="left" width="50%" style="border: none; vertical-align: top;">
-      <b>Infrastructure & Data</b><br/>
-      Node.js | Express.js | MongoDB <br/>
-      Firebase | SQL Database Management
+      <b>Design & Experience</b><br/>
+      UI/UX Prototyping | Responsive Layouts <br/>
+      Figma Design | Human-Computer Interaction
     </td>
     <td align="left" width="50%" style="border: none; vertical-align: top;">
-      <b>Integration & Workflow</b><br/>
-      Razorpay Payments | Git | GitHub Actions <br/>
-      System Architecture | Agile Development
+      <b>Advanced Development</b><br/>
+      MERN Stack Specialization | Mongoose <br/>
+      GitHub Actions | Real-time Data Mapping
     </td>
   </tr>
 </table>
@@ -61,9 +63,30 @@ Beyond the code, I am a published researcher exploring the future of Empathetic 
 ### Featured Development
 
 <details>
+  <summary><b>VSM | Vishwanath Sports Meet (MIT)</b></summary>
+  <br/>
+  Architecture and development for the official inter-college competition website at MIT. This platform handles registrations, event tracking, and schedule management for one of the most prominent sports meets in the region.
+  <br/><br/>
+  <b>Focus:</b> Scalability, High-Traffic Management, Real-time Updates
+</details>
+
+<details>
+  <summary><b>Zenvy | Immersive Herbal Ecosystem</b></summary>
+  <br/>
+  A holistic wellness platform exploring the future of botanical intelligence through five core features:
+  <ul>
+    <li><b>Virtual Herbal Garden:</b> Immersive 3D plant representations.</li>
+    <li><b>Drug Interaction Checker:</b> Safety logic for herbal-pharmaceutical compatibility.</li>
+    <li><b>AI Diet Advisor:</b> Personalized nutritional guidance via intelligent agents.</li>
+    <li><b>Personal Journal:</b> Tracking wellness milestones and botanical observations.</li>
+    <li><b>AI Personas:</b> Diverse assistant personalities for varied user engagement.</li>
+  </ul>
+</details>
+
+<details>
   <summary><b>savraksh | Public Safety Intelligence</b></summary>
   <br/>
-  Architecture designed for urban safety. This platform integrates real-time heatmaps and intelligent routing logic to provide secure navigation paths for users in high-risk areas. It’s an exercise in combining geolocation data with high-stakes user needs.
+  A safety-first architecture for urban navigation. Integrates real-time heatmaps and intelligent routing logic to ensure secure transit for users in high-risk zones.
   <br/><br/>
   <b>Stack:</b> MERN Stack, Leaflet.js, OpenStreetMap API
 </details>
@@ -71,60 +94,39 @@ Beyond the code, I am a published researcher exploring the future of Empathetic 
 <details>
   <summary><b>swba | ShuttleWar Academy Management</b></summary>
   <br/>
-  A professional-grade management ecosystem built for sports academies. This project automates the entire lifecycle of player logistics, coach scheduling, and financial tracking through secure Razorpay integration.
-  <br/><br/>
-  <b>Stack:</b> React, Node.js, Firebase, Razorpay
+  A professional-grade management ecosystem built for sports academies. Automates player logistics and financial tracking through secure <b>Razorpay</b> integration.
 </details>
 
 <details>
-  <summary><b>Zenvy | Immersive Herbal Ecosystem</b></summary>
+  <summary><b>Yugen Dashboard | Data Visualization</b></summary>
   <br/>
-  A multi-layered digital project focusing on the future of botanical education through five key pillars:
-  <ul>
-    <li>3D Plant Modeling: High-fidelity visual immersion.</li>
-    <li>Botanical Database: A structured library for herbal research.</li>
-    <li>Gamified Progression: Interactive user engagement milestones.</li>
-    <li>Climate Simulation: Logic reflecting real-world growth factors.</li>
-    <li>AI Identification: Recognition tools for instant species data.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>vanokhi | Minimalist Commerce</b></summary>
-  <br/>
-  An e-commerce solution focused on a high-performance "less is more" UI/UX approach. It emphasizes clean state management and rapid navigation.
-</details>
-
-<details>
-  <summary><b>Interactive Labs | MatchTheTile & ShootingArea</b></summary>
-  <br/>
-  Exploring browser performance and interactive logic through puzzle and action-based gaming experiences built using the HTML5 Canvas API.
+  A high-performance administrative interface designed for monitoring system metrics and visualizing complex datasets through a sleek, minimalist UI.
 </details>
 
 ---
 
-<a name="activity"></a>
-### Activity & Engagement
+<a name="metrics"></a>
+### Metrics & Progress
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=multileo-ai&theme=tokyonight&no-bg=true&margin-w=4" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=multileo-ai&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=multileo-ai&theme=tokyonight&hide_border=true&sideLabelColor=36BCF7" />
-</p>
-
 **Contribution Flow**
 <p align="center">
-  <img src="https://github.com/multileo-ai/multileo-ai/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/multileo-ai/multileo-ai/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-<a name="direct-access"></a>
-### Direct Access
+<a name="connection"></a>
+### Connection
 
-If you are interested in discussing research on Empathetic AI, full-stack architecture, or potential collaborations, reach out through the channels below.
+If you are interested in discussing research on Empathetic AI, full-stack architecture, or the VSM ecosystem, reach out below.
 
 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL@gmail.com) | [Portfolio](https://your-portfolio.com)
 
