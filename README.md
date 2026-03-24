@@ -1,44 +1,75 @@
-<a href="https://multileo.nicepage.io/">
-  <img src="https://i.ibb.co/9gL4ptc/github-header-image.png" alt="MasterHead" style="width: 100vw;" />
-</a>
+# Hey there! I'm Ashutosh Kumar 👋
 
-<h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=multileo-ai&label=Profile%20views&color=0e75b6&style=flat" alt="multileo-ai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=multileo-ai" alt="multileo-ai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Breather**
-
-- 🌱 I’m currently learning **Javascript,React js and python**
-
-- 🤝 I’m looking for help with **Web Dev**
-
-- 💬 Ask me about **Html ,css, java or ui/ux**
-
-- 📫 How to reach me **kumar.ashutosh.er@gmail.com**
-
-- ⚡ Fun fact **I love Programming**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/multileo-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="multileo-ai" height="30" width="40" /></a>
-<a href="https://instagram.com/multileo.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="multileo.ai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@multileo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@multileo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/kumar_ashutosh_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kumar_ashutosh_4" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;B.Tech+CSE+Student;Building+Future-Ready+Apps;Research+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=multileo-ai&show_icons=true&locale=en&layout=compact" alt="multileo-ai" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=multileo-ai&show_icons=true&locale=en" alt="multileo-ai" /></p>
+I am a **Computer Science & Engineering** student dedicated to building high-performance web applications and empathetic AI solutions. I thrive on transforming complex challenges into clean, functional code. My work focuses on creating technology that makes a tangible impact, from public safety to digital wellness and sports management.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=multileo-ai&" alt="multileo-ai" /></p>
+- 🛡️ **savraksh:** Engineering a robust safety platform using real-time heatmaps and intelligent routing to protect users in urban environments.
+- 🏸 **swba:** Developing an end-to-end management ecosystem that streamlines player logistics and tournament operations for sports academies.
+- 🌿 **Zenvy:** Crafting an immersive herbal ecosystem featuring 3D plant modeling, interactive botanical databases, gamified growth tracking, real-time climate simulation, and AI-driven identification.
+- ✍️ **Research:** Contributing to the future of student wellness through published work on MERN-based empathetic AI frameworks.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 🌟 Featured Repositories
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🛡️ savraksh** | A high-impact safety application utilizing map integration for secure navigation. | MERN, Leaflet |
+| **🏸 swba** | A comprehensive management suite designed for sports facility efficiency and scaling. | React, Node.js |
+| **🌿 Zenvy** | A multi-featured virtual garden focusing on interactive education and 3D visualization. | 3D Web, React |
+| **🛍️ vanokhi** | A modern e-commerce solution with a focus on seamless UI/UX and state management. | React, Tailwind |
+| **📊 Yugen Dashboard** | A sophisticated interface for data visualization and administrative monitoring. | JS, Chart.js |
+| **🎮 Gaming** | **MatchTheTile** & **ShootingArea** — interactive web-based gaming experiences. | Canvas, JS |
+
+---
+
+### 📈 Activity & Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=multileo-ai&show_icons=true&theme=tokyonight&count_private=true" alt="Ashutosh's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=multileo-ai&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+
+### 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://github.com/multileo-ai/multileo-ai/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>"Writing code that makes an impact, one repository at a time."</i>
+</p>
